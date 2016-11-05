@@ -12,3 +12,5 @@ Project about a Restaurant Management System.
 	
 -addfood and subtract food files, are the windows that pop-up when the buttons in tableclick are clicked. They simply let subtract and add
   food to the table.
+  
+  Please read Project-Report to better understand the code
